@@ -1,0 +1,41 @@
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\x64\Debug\TestSele.exe.config
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\x64\Debug\TestSele.exe
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\x64\Debug\TestSele.pdb
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\x64\Debug\WebDriver.dll
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\x64\Debug\WebDriver.xml
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.Form1.resources
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.Properties.Resources.resources
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.CopyComplete
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.exe
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\x64\Debug\TestSele.pdb
+C:\Users\PC\Documents\assets\TestSele\TestSele\bin\x64\Debug\TestSele.exe.config
+C:\Users\PC\Documents\assets\TestSele\TestSele\bin\x64\Debug\TestSele.exe
+C:\Users\PC\Documents\assets\TestSele\TestSele\bin\x64\Debug\TestSele.pdb
+C:\Users\PC\Documents\assets\TestSele\TestSele\bin\x64\Debug\WebDriver.dll
+C:\Users\PC\Documents\assets\TestSele\TestSele\bin\x64\Debug\WebDriver.xml
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.csprojAssemblyReference.cache
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.Form1.resources
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.Properties.Resources.resources
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.GenerateResource.cache
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.CopyComplete
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.exe
+C:\Users\PC\Documents\assets\TestSele\TestSele\obj\x64\Debug\TestSele.pdb
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\bin\x64\Debug\TestSele.exe.config
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\bin\x64\Debug\TestSele.exe
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\bin\x64\Debug\TestSele.pdb
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\bin\x64\Debug\AnyCaptchaHelper.dll
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\bin\x64\Debug\WebDriver.dll
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\bin\x64\Debug\WebDriver.xml
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.AssemblyReference.cache
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.Form1.resources
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.Properties.Resources.resources
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.csproj.CopyComplete
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.exe
+C:\Users\duong\OneDrive\Desktop\TestSele\TestSele\obj\x64\Debug\TestSele.pdb

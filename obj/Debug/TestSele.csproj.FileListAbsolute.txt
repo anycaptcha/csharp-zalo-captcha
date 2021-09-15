@@ -1,0 +1,13 @@
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\Debug\TestSele.exe.config
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\Debug\TestSele.exe
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\Debug\TestSele.pdb
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\Debug\WebDriver.dll
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\bin\Debug\WebDriver.xml
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.csprojAssemblyReference.cache
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.Form1.resources
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.Properties.Resources.resources
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.csproj.GenerateResource.cache
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.csproj.CopyComplete
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.exe
+C:\Users\Hoang Quoc Bao\source\repos\TestSele\TestSele\obj\Debug\TestSele.pdb

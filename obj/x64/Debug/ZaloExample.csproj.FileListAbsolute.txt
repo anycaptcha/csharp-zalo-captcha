@@ -1,0 +1,15 @@
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\bin\x64\Debug\ZaloExample.exe.config
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\bin\x64\Debug\ZaloExample.exe
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\bin\x64\Debug\ZaloExample.pdb
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\bin\x64\Debug\AnyCaptchaHelper.dll
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\bin\x64\Debug\WebDriver.dll
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\bin\x64\Debug\WebDriver.xml
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.csproj.AssemblyReference.cache
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.Form1.resources
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.Properties.Resources.resources
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.csproj.GenerateResource.cache
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.csproj.CoreCompileInputs.cache
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.csproj.CopyComplete
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.exe
+D:\Projects\AnyCaptcha\Git\anycaptcha-zalo\obj\x64\Debug\ZaloExample.pdb
