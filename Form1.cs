@@ -24,7 +24,7 @@ namespace ZaloExample
         ChromeDriver driver;
         private void button1_Click(object sender, EventArgs e)
         {
-            string username = "số điện thoại momo";
+            string username = "số điện thoại zalo";
             string password = "mật khấu zalo";
             ChromeOptions options = new ChromeOptions();
             driver = new ChromeDriver(options);
