@@ -24,12 +24,12 @@ namespace ZaloExample
         ChromeDriver driver;
         private void button1_Click(object sender, EventArgs e)
         {
-            string username = "số điện thoại zalo";
-            string password = "mật khấu zalo";
+            string username = "phone number";
+            string password = "password";
             ChromeOptions options = new ChromeOptions();
             driver = new ChromeDriver(options);
             Dictionary<string, object> listURL = new Dictionary<string, object>();
-            string[] durl = { "https://stc.sp.zdn.vn/zaloid/client/main-5.2.9.js" };
+            string[] durl = { "https://stc.sp.zdn.vn/zaloid/client/main-5.3.0.js" };
             listURL.Add("urls", durl);
             driver.ExecuteChromeCommand("Network.setBlockedURLs", listURL);
             Dictionary<string, object> listURL22 = new Dictionary<string, object>();
@@ -43,7 +43,7 @@ namespace ZaloExample
             ((IJavaScriptExecutor)driver).ExecuteScript("document.getElementsByTagName('input')[0].value=\"" + username + "\"");
             ((IJavaScriptExecutor)driver).ExecuteScript("document.getElementsByTagName('input')[1].value=\"" + password + "\"");
 
-            var anycaptchaResolve = new AnyCaptchaHelper.AnyCaptcha().Zalo("điền key anycaptcha vào đây");
+            var anycaptchaResolve = new AnyCaptchaHelper.AnyCaptcha().Zalo("ANYCAPTCHA KEYS");
             if (anycaptchaResolve.IsSuccess)
             {
                 ((IJavaScriptExecutor)driver).ExecuteScript("document.getElementsByTagName('textarea')[0].value=\"" + anycaptchaResolve.Result + "\"");
